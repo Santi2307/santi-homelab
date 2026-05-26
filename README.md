@@ -6,12 +6,6 @@
 
 Built and broken on purpose so I can learn how to fix it.
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Linux](https://img.shields.io/badge/Linux-RHEL%20%7C%20Ubuntu-orange.svg)]()
-[![Ansible](https://img.shields.io/badge/Ansible-2.16+-red.svg)]()
-[![Docker](https://img.shields.io/badge/Docker-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-
 </div>
 
 ---
@@ -24,14 +18,14 @@ This repo is the complete, documented version of that work — playbooks, config
 
 ## Services running here
 
-| Service       | Purpose                            | Stack                    | Status |
-|---------------|------------------------------------|--------------------------|--------|
-| Pi-hole       | Network-wide ad blocking via DNS   | Docker, DNS              | Planned |
-| Nextcloud     | Personal cloud storage             | Docker, PostgreSQL       | Planned |
-| Jellyfin      | Self-hosted media server           | Docker                   | Planned |
-| Prometheus    | Metrics collection                 | Docker                   | Planned |
-| Grafana       | Dashboards and alerting            | Docker                   | Planned |
-| Wireguard     | VPN for remote access              | Linux, Ansible           | Planned |
+| Service    | Purpose                          | Stack              | Status  |
+| ---------- | -------------------------------- | ------------------ | ------- |
+| Pi-hole    | Network-wide ad blocking via DNS | Docker, DNS        | Planned |
+| Nextcloud  | Personal cloud storage           | Docker, PostgreSQL | Planned |
+| Jellyfin   | Self-hosted media server         | Docker             | Planned |
+| Prometheus | Metrics collection               | Docker             | Planned |
+| Grafana    | Dashboards and alerting          | Docker             | Planned |
+| Wireguard  | VPN for remote access            | Linux, Ansible     | Planned |
 
 ## Architecture
 
