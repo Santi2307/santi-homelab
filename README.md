@@ -1,6 +1,6 @@
 <div align="center">
 
-# santi-homelab
+# Santi's-Homelab
 
 **A self-hosted infrastructure project where I practice what I learned at Seneca — Linux, Docker, Ansible, networking.**
 
@@ -131,7 +131,4 @@ I'm Santiago — IT & Systems Specialist based in Toronto, Canada. I built this 
 ---
 
 <div align="center">
-
-**License:** MIT · Built in Toronto
-
 </div>
